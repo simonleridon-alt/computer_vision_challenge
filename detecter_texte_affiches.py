@@ -56,7 +56,6 @@ CATEGORY_PATTERNS = {
 # apparait dans son texte compacte.
 CATEGORY_EXCLUSIONS = {
     "cannes": (r"horscompetition", r"outofcompetition"),
-    "berlin": (r"berling",),
 }
 
 
